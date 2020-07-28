@@ -1,3 +1,7 @@
+Preparation:
+In order to start this project up you need to have Node.js installed on your computer.
+(Project was done and run in 2018 on node v10.13.0 and npm 6.4.1)
+
 Startup:
 
 1. Open cmd on main folder
