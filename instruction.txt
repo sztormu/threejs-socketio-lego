@@ -1,0 +1,15 @@
+Startup:
+
+1. Open cmd on main folder
+2. Type "npm install"
+3. Type "node server.js"
+4. Open site "http://localhost:3000/"
+
+Controls:
+
+WSAD - rotate camera
+LeftClick - place block
+Arrows - move around with block
+Escape - change block color
+Hold LeftCtrl + Click Spacebar - change length of block
+Spacebar - rotate block
