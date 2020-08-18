@@ -14,10 +14,10 @@ Startup:
 
 Controls:
 
-WSAD - rotate camera
-LeftClick - place block
-Arrows - move around with block
-Escape - change block color
-Hold LeftCtrl + Click Spacebar - change length of block
-Spacebar - rotate block
+- WSAD - rotate camera
+- LeftClick - place block
+- Arrows - move around with block
+- Escape - change block color
+- Hold LeftCtrl + Click Spacebar - change length of block
+- Spacebar - rotate block
 
