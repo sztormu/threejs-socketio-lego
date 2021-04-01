@@ -1,0 +1,25 @@
+{
+  "name": "webgl_lego",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sztormu/threejs-socketio-lego.git"
+  },
+  "author": "Kacper Dobosz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sztormu/threejs-socketio-lego/issues"
+  },
+  "homepage": "https://github.com/sztormu/threejs-socketio-lego#readme",
+  "description": ""
+}
